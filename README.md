@@ -1,7 +1,7 @@
 OpenRoACH
 =========
 
-This is the repository for the design files of the OpenRoACH robot. Current version was last improves by Jefferey Kurohara.
+This is the repository for the design files of the OpenRoACH robot. Current version was last improved by Jefferey Kurohara.
 
 Current assembly instructions are being beta tested, to make sure everything is in order. 
 
